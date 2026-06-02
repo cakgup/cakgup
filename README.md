@@ -2,8 +2,6 @@
 
 <h2 align="center">Hi, I'm Cak Gup</h2>
 
-<h3 align="center">Mukhammad Gufron Ikhsan</h3>
-
 <p align="center">
   Cybersecurity & IT Governance Specialist · Ministry of Finance · Indonesia
 </p>
