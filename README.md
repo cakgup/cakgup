@@ -52,19 +52,6 @@ I currently contribute in a government treasury systems environment, where I foc
 
 ---
 
-## GitHub Performance Metrics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cakgup&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakgup&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=cakgup&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Public Repositories
 
 ### Cybersecurity & Governance
