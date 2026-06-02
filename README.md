@@ -67,25 +67,6 @@ I currently contribute in a government treasury systems environment, where I foc
 
 ## Public Repositories
 
-| Repository | Category | Description |
-|---|---|---|
-| [pagipetang](https://github.com/cakgup/pagipetang) | Islamic Digital Reading | A static web application for reading Wazifah Sugro from Al-Ma'tsurat Hasan Al-Banna. Designed to run directly on GitHub Pages without backend or database dependency. |
-| [u](https://github.com/cakgup/u) | Microsite / Organization Support | CakGup Microsite for Yayasan Indonesia Maju Gemilang, built to support organizational activities and provide simple digital access. |
-| [s](https://github.com/cakgup/s) | Shortlink Application | CakGup Short Link, a lightweight shortlink application based on GitHub Pages, Google Apps Script, and Google Sheets. |
-| [qurbanhub](https://github.com/cakgup/qurbanhub) | Community / Qurban Management | A static web prototype for managing qurban programs for foundations, mosques, and communities. Built with a visual identity inspired by Yayasan Baghasasi. |
-| [cakgup.github.io](https://github.com/cakgup/cakgup.github.io) | Personal Portfolio | Personal portfolio microwebsite of Cak Gup, showcasing professional profile, cybersecurity expertise, IT governance experience, certifications, projects, and contact information. |
-| [task](https://github.com/cakgup/task) | Family Productivity | CakGup Task, a lightweight family task management application to help build good habits, discipline, responsibility, and amanah from home. |
-| [simple-pentest-tools](https://github.com/cakgup/simple-pentest-tools) | Cybersecurity Tooling | Browser-based helper toolkit for authorized security testing activities. Designed to run mostly in the browser without backend, database, or package manager dependency. |
-| [dashboard-masjid](https://github.com/cakgup/dashboard-masjid) | Masjid Digital Dashboard | A digital information dashboard for Masjid Al Amanah, designed for TV display and built with modern web technology. |
-| [bani-raukhan-rafi](https://github.com/cakgup/bani-raukhan-rafi) | Family Tree / Cultural Web | Interactive family tree of Bani Raukhan – Rafi using D3.js, designed with Javanese Kraton and Sogan visual aesthetics. |
-| [pentest-djpb](https://github.com/cakgup/pentest-djpb) | Security Governance | Authorized penetration testing guidance and workflow reference for structured security testing activities. |
-| [wedding-invitation](https://github.com/cakgup/wedding-invitation) | Digital Invitation | Wedding invitation template using Google Sheets API to store and manage invitation data. |
-| [invitation](https://github.com/cakgup/invitation) | Islamic Digital Invitation | Premium Islamic digital invitation template with a modern visual style combining teal green and elegant gold accents. |
-
----
-
-## Featured Focus
-
 ### Cybersecurity & Governance
 
 - [pentest-djpb](https://github.com/cakgup/pentest-djpb) — Structured guidance for authorized penetration testing workflow.
