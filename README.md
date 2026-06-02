@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://cakgup.github.io/"><img src="https://img.shields.io/badge/Portfolio-cakgup.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mukhammad-gufron-ikhsan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0000-0003-2187-7808"><img src="https://img.shields.io/badge/ORCID-0000--0003--2187--7808-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
