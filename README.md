@@ -63,11 +63,7 @@ I am an IT Specialist (Pranata Komputer Ahli Muda) focused on cybersecurity, inf
 
 <p>
   <a href="https://cakgup.github.io/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/mukhammad-gufron-ikhsan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/6281333101616"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.youtube.com/@cakgup"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/cakgup"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/cakgup"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cakgup&style=flat-square&color=0A66C2" alt="Profile views" />
