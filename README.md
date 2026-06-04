@@ -64,9 +64,11 @@ I currently contribute in a government treasury systems environment, where I foc
 ### Civic-Tech, Community, and Public Service Tools
 
 - [dashboard-masjid](https://github.com/cakgup/dashboard-masjid) — Digital information dashboard for mosque display.
-- [qurbanhub](https://github.com/cakgup/qurbanhub) — Web prototype for qurban program management.
+- [ppsa](https://github.com/cakgup/ppsa)  — Digital doa and wirid application with offline support and prayer schedule.
+- [ppsa_ms](https://github.com/cakgup/ppsa_ms)  — Pesantren management information system.
 - [task](https://github.com/cakgup/task) — Family task management application with values-based design.
 - [pagipetang](https://github.com/cakgup/pagipetang) — Static Islamic reading application for daily remembrance.
+- [qurbanhub](https://github.com/cakgup/qurbanhub) — Web prototype for qurban program management.
 
 ### Web Utilities and Digital Presence
 
