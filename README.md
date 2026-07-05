@@ -58,6 +58,8 @@ I currently contribute in a government treasury systems environment, where I foc
 
 ### Cybersecurity & Governance
 
+- [panah](https://github.com/cakgup/panah) — Pentest Automation and Network Assessment Hub (PANAH).
+- [satria](https://github.com/cakgup/satria) — Security Assessment, Tracking, Remediation, and Incident Automation (SATRIA).
 - [pentest-djpb](https://github.com/cakgup/pentest-djpb) — Structured guidance for authorized penetration testing workflow.
 - [simple-pentest-tools](https://github.com/cakgup/simple-pentest-tools) — Lightweight browser-based toolkit for security testing support.
 
