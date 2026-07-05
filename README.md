@@ -60,11 +60,13 @@ I currently contribute in a government treasury systems environment, where I foc
 
 - [panah](https://github.com/cakgup/panah) — Pentest Automation and Network Assessment Hub (PANAH).
 - [satria](https://github.com/cakgup/satria) — Security Assessment, Tracking, Remediation, and Incident Automation (SATRIA).
+- [redteam-console-WSL](https://github.com/cakgup/redteam-console) — Authorized Lab Emulation Console With WSL + Windows OS.
 - [pentest-djpb](https://github.com/cakgup/pentest-djpb) — Structured guidance for authorized penetration testing workflow.
 - [simple-pentest-tools](https://github.com/cakgup/simple-pentest-tools) — Lightweight browser-based toolkit for security testing support.
 
 ### Civic-Tech, Community, and Public Service Tools
 
+- [tahfidz](https://github.com/cakgup/tahfidz) — Tahfidz application for memorization, and monitoring of Al-Quran learning progress.
 - [dashboard-masjid](https://github.com/cakgup/dashboard-masjid) — Digital information dashboard for mosque display.
 - [ppsa](https://github.com/cakgup/ppsa)  — Digital doa and wirid application with offline support and prayer schedule.
 - [ppsa_ms](https://github.com/cakgup/ppsa_ms)  — Pesantren management information system.
