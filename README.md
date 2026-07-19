@@ -13,7 +13,8 @@
   <a href="https://orcid.org/0000-0003-2187-7808">
     <img src="https://img.shields.io/badge/ORCID-0000--0003--2187--7808-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <a href="https://gitlab.com/cakgup"><img src="https://img.shields.io/badge/GitLab-cakgup-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <a href="https://gitlab.com/cakgup">
+    <img src="https://img.shields.io/badge/GitLab-cakgup-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
   <a href="https://www.linkedin.com/in/cakgup">
     <img src="https://img.shields.io/badge/LinkedIn-cakgup-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -102,6 +103,14 @@ I currently contribute in a government treasury systems environment, where I foc
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid" alt="ORCID" />
   </a>
 </p>
+
+## OpenPGP
+
+For signed communication or verification, use this long fingerprint:
+
+```text
+ED718D3AF0C3380EF19D7AC84B8821D8E42B927F
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cakgup&style=flat-square&color=0A66C2" alt="Profile views" />
