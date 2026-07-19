@@ -104,8 +104,6 @@ I currently contribute in a government treasury systems environment, where I foc
   </a>
 </p>
 
-## OpenPGP
-
 <p align="center">
   <strong>Signed communication and identity verification</strong>
 </p>
