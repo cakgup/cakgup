@@ -106,11 +106,17 @@ I currently contribute in a government treasury systems environment, where I foc
 
 ## OpenPGP
 
-For signed communication or verification, use this long fingerprint:
+<p align="center">
+  <strong>Signed communication and identity verification</strong>
+</p>
 
-```text
-ED718D3AF0C3380EF19D7AC84B8821D8E42B927F
-```
+<p align="center">
+  <code>ED71 8D3A F0C3 380E F19D 7AC8 4B88 21D8 E42B 927F</code>
+</p>
+
+<p align="center">
+  Long fingerprint for public key verification.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cakgup&style=flat-square&color=0A66C2" alt="Profile views" />
