@@ -63,6 +63,7 @@ I currently contribute in a government treasury systems environment, where I foc
 - [redteam-console-WSL](https://github.com/cakgup/redteam-console) — Authorized Lab Emulation Console With WSL + Windows OS.
 - [pentest-djpb](https://github.com/cakgup/pentest-djpb) — Structured guidance for authorized penetration testing workflow.
 - [simple-pentest-tools](https://github.com/cakgup/simple-pentest-tools) — Lightweight browser-based toolkit for security testing support.
+- [pentest-command-trainer](https://github.com/cakgup/pentest-command-trainer) — Typing trainer designed specifically for penetration testing commands
 
 ### Civic-Tech, Community, and Public Service Tools
 
